@@ -6,8 +6,9 @@
 - ⚡ Fun fact: I love martial arts, especially capoeira, taekwondo, and boxing.
 - 💬 Ask me about __anything__
 - :cloud: How to reach me:
-  
-  ![Static Badge](https://img.shields.io/badge/_in%2FGabrielaTR_-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriela-teixeira-ribeiro-312817249%2F)
+
+
+  [![Static Badge](https://img.shields.io/badge/In%2FGabrielaTR-0A66C2?style=flat-square&logo=LinkedIn&logoColor=0A66C2&labelColor=white&color=0A66C2)](https://www.linkedin.com/in/gabriela-teixeira-ribeiro-312817249/)
   ![Static Badge](https://img.shields.io/badge/Gabrielatr055%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=EA4335&labelColor=white)
 
 
