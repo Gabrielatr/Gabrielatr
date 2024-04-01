@@ -1,5 +1,5 @@
 # Hello 👋 I'm Gabi
-## I'm a software developer :woman_technologist:
+**I'm a software developer :woman_technologist:**
 
 - :woman_student: I'm a student at the University of Aveiro
 
